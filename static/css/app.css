@@ -1,3 +1,102 @@
 body {
    background-color: bisque;
+   font-family: 'Roboto', sans-serif;
+   overflow: hidden;
+}
+
+.mission-planning {
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   align-items: flex-start;
+   flex-direction: column;
+   margin: 2rem;
+}
+
+.mission-planning h1 {
+   font-weight: 700;
+   height: .6rem;
+}
+
+.mission-planning p {
+   margin-bottom: 2rem;
+   color: #585858;
+}
+
+
+.mission-planning__form {
+   display: flex;
+   background: #ffecd5;
+   padding: 1rem;
+}
+
+.mission-planning__form_inputs {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 1.3rem;
+   flex-wrap: wrap;
+}
+
+.compare__form {
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+   /* width: 50rem; */
+   flex-direction: column;
+   margin-top: 2rem;
+}
+
+.input-group {
+   display: flex;
+   justify-content: flex-start;
+   flex-direction: column;
+}
+
+.input-group:not(:first-child){
+   margin-left: .3rem;
+}
+
+.input-group label {
+   margin-bottom: 1rem;
+   display: flex;
+   /* align-items: center; */
+}
+
+.input-group label svg {
+   width: 1.2rem;
+   margin-right: .3rem;
+}
+
+.input {
+   width: 22.7rem;
+   padding: 1.3rem 1rem;
+   border-radius: 0rem;
+   border: 1px solid #fefefe;
+   outline: #f00;
+   font-size: 1rem;
+}
+
+.input:not(:last-child) {
+   border-right: 1px solid #000;
+}
+
+
+.compare__button {
+   flex: 1;
+   padding: 1.2rem 2rem;
+   width: inherit;
+   border: none;
+   background: #161616;
+   font-size: 1rem;
+   color: #fff;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.compare__button svg {
+   width: 1rem;
+   fill: #fff;
+   margin-right: .3rem;
 }
