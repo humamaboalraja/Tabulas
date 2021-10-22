@@ -6,7 +6,6 @@ class astarGraph():
         self.graph = graph
     
     def heuristic(self, current, to_find):
-        # The heuristic method estimates the distance between a neighbor and the vertex to find
         return haversine((current['y'], current['x']),(to_find['y'], to_find['x']),unit=Unit.METERS)
     
     def astar(self, start, to_find):
@@ -30,3 +29,14 @@ class astarGraph():
                 path.append(start)
                 path.reverse()
                 return path, exploredVertices, exploredEdges, costToVertex[to_find]
+            
+            for neighbor in list(self.graph.neighbors(current)):
+                distance = self.graph[current][neighbor][0]["length"]
+                new_cost = costToVertex[current] + distance
+                exploredEdges += 1
+                if neighbor not in costToVertex or new_cost < costToVertex[neighbor]:
+                    costToVertex[neighbor] = new_cost
+                    priority = new_cost + self.heuristic(self.graph.nodes[neighbor], self.graph.nodes[to_find])
+                    toVisit.put(neighbor, priority)
+                    visitedFromVertex[neighbor] = current
+        return
