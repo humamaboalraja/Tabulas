@@ -32,11 +32,11 @@ class astarGraph():
             
             for neighbor in list(self.graph.neighbors(current)):
                 distance = self.graph[current][neighbor][0]["length"]
-                new_cost = costToVertex[current] + distance
+                newCost = costToVertex[current] + distance
                 exploredEdges += 1
-                if neighbor not in costToVertex or new_cost < costToVertex[neighbor]:
-                    costToVertex[neighbor] = new_cost
-                    priority = new_cost + self.heuristic(self.graph.nodes[neighbor], self.graph.nodes[to_find])
+                if neighbor not in costToVertex or newCost < costToVertex[neighbor]:
+                    costToVertex[neighbor] = newCost
+                    priority = newCost + self.heuristic(self.graph.nodes[neighbor], self.graph.nodes[to_find])
                     toVisit.put(neighbor, priority)
                     visitedFromVertex[neighbor] = current
         return
