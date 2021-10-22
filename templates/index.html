@@ -9,8 +9,7 @@
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
    <link href="{{ url_for('static', filename='css/app.css') }}" rel="stylesheet" id="theme" />
-   <!-- <link href="{{ url_for('static', filename='css/black.css') }}" rel="stylesheet" /> -->
-
+   <!-- <link href="{{ url_for('static', filename='css/black.css') }}" rel="stylesheet" /> -->   
    <title>Missions planning's Path finding algorithms comparison</title>
 </head>
 
@@ -77,8 +76,8 @@
                         <label for="astarRouteColor">
                            A* Route color
                         </label>
-                        <input type="color" class="input-color" id="astarRouteColor" name="astarRouteColor"
-                           value="#000000" required>
+                        <input type="color" class="input-color" id="astarRouteColor" name="astarRouteColor" 
+                           value="#FFFFFF" required>
                      </div>
                      <div class="input-group">
                         <label for="astarBgColor">
@@ -102,11 +101,11 @@
    </div>
    <div class="algorithms_results">
       <div class="algorithms_results__result">
-         <img src="{{ url_for('static', filename='img/dijkstra.jpg') }}" alt="User Image" draggable="false">
+         <a href="{{ url_for('static', filename='img/dijkstra.jpg') }}" download><img src="{{ url_for('static', filename='img/dijkstra.jpg') }}" alt="Dijkstra" draggable="false"></a>
          <p>{{ dijkstraResult}}</p>
       </div>
       <div class="algorithms_results__result">
-         <img src="{{ url_for('static', filename='img/astar.jpg') }}" alt="User Image" draggable="false">
+         <a href="{{ url_for('static', filename='img/astar.jpg') }}" download><img src="{{ url_for('static', filename='img/astar.jpg') }}" alt="Astar" draggable="false"></a>
          <p>{{ astarResult}}</p>
       </div>
    </div>
