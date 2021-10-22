@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,79 +8,94 @@
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-   <link href="{{ url_for('static', filename='css/app.css') }}" rel="stylesheet" />
+   <link href="{{ url_for('static', filename='css/app.css') }}" rel="stylesheet" id="theme" />
    <!-- <link href="{{ url_for('static', filename='css/black.css') }}" rel="stylesheet" /> -->
 
    <title>Missions planning's Path finding algorithms comparison</title>
 </head>
+
 <body>
 
    <div class="mission-planning">
+      <div class="color_switcher">
+         <a onclick="changeStylesheet('/static/css/app.css')">☀️</a>
+         <a onclick="changeStylesheet('/static/css/black.css')">🌃</a>
+      </div>
       <h1>Missions planning's Path finding algorithms comparison 🧭</h1>
       <p>Algorithms used: A*, Dijkstra</p>
+
 
       <div class="mission-planning__form">
          <form action="{{ url_for('compare') }}" class="compare__form" method="POST">
             <div class="mission-planning__form_inputs">
                <div class="mission-planning__form__algorithm-inputs">
 
-            <div class="input-group">
-               <label for="startingPoint">
-                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="none" fill-rule="evenodd" d="M0 0h24v24H0Z"/><path d="M5 10.5C5 6 8 3 12.5 3 17 3 20 6.75 20 10.5c0 2.33-2.18 5.53-6.53 9.6 -.56.51-1.42.54-2 .05 -4.32-3.66-6.48-6.88-6.48-9.66Zm7.5 1.5c1.38 0 2.5-1.12 2.5-2.5C15 8.11 13.88 7 12.5 7 11.11 7 10 8.11 10 9.5c0 1.38 1.11 2.5 2.5 2.5Z"/></svg>
-                  Point A
-               </label>
-               <input type="text" class="input" name="startingPoint" placeholder="e.g. Berlin, Germany" required>
+                  <div class="input-group">
+                     <label for="startingPoint">
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                           <path fill="none" fill-rule="evenodd" d="M0 0h24v24H0Z" />
+                           <path
+                              d="M5 10.5C5 6 8 3 12.5 3 17 3 20 6.75 20 10.5c0 2.33-2.18 5.53-6.53 9.6 -.56.51-1.42.54-2 .05 -4.32-3.66-6.48-6.88-6.48-9.66Zm7.5 1.5c1.38 0 2.5-1.12 2.5-2.5C15 8.11 13.88 7 12.5 7 11.11 7 10 8.11 10 9.5c0 1.38 1.11 2.5 2.5 2.5Z" />
+                        </svg>
+                        Point A
+                     </label>
+                     <input type="text" class="input" name="startingPoint" placeholder="e.g. Berlin, Germany" required>
+                  </div>
+                  <div class="input-group">
+                     <label for="endingPoint">
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                           <path fill="none" fill-rule="evenodd" d="M0 0h24v24H0Z" />
+                           <path
+                              d="M5 10.5C5 6 8 3 12.5 3 17 3 20 6.75 20 10.5c0 2.33-2.18 5.53-6.53 9.6 -.56.51-1.42.54-2 .05 -4.32-3.66-6.48-6.88-6.48-9.66Zm7.5 1.5c1.38 0 2.5-1.12 2.5-2.5C15 8.11 13.88 7 12.5 7 11.11 7 10 8.11 10 9.5c0 1.38 1.11 2.5 2.5 2.5Z" />
+                        </svg>
+                        Point B
+                     </label>
+                     <input type="text" class="input" name="endingPoint" placeholder="e.g. Hamburg, Germany" required>
+                  </div>
+               </div>
+               <div class="mission-planning__form__algorithm-inputs algorithms-config">
+                  <h3>Dijkstra's Configuration</h3>
+                  <div class="mission-planning__form__algorithm-inputs--elements  ">
+                     <div class="input-group">
+                        <label for="dijkstraRouteColor">
+                           Dijkstra Route Color
+                        </label>
+                        <input type="color" class="input-color" name="dijkstraRouteColor" value="#FFFFFF" required>
+                     </div>
+                     <div class="input-group">
+                        <label for="a_star">
+                           Dijkstra Background Color
+                        </label>
+                        <input type="color" class="input-color" name="dijkstraBgColor" value="#FFA3A3" required>
+                     </div>
+                  </div>
+               </div>
+               <div class="mission-planning__form__algorithm-inputs algorithms-config">
+                  <h3>A* Configuration</h3>
+                  <div class="mission-planning__form__algorithm-inputs--elements ">
+                     <div class="input-group">
+                        <label for="astarRouteColor">
+                           A* Route color
+                        </label>
+                        <input type="color" class="input-color" id="astarRouteColor" name="astarRouteColor"
+                           value="#000000" required>
+                     </div>
+                     <div class="input-group">
+                        <label for="astarBgColor">
+                           A* Background Color
+                        </label>
+                        <input type="color" class="input-color" name="astarBgColor" value="#FFA3A3" required>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div class="input-group">
-               <label for="endingPoint">
-                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="none" fill-rule="evenodd" d="M0 0h24v24H0Z"/><path d="M5 10.5C5 6 8 3 12.5 3 17 3 20 6.75 20 10.5c0 2.33-2.18 5.53-6.53 9.6 -.56.51-1.42.54-2 .05 -4.32-3.66-6.48-6.88-6.48-9.66Zm7.5 1.5c1.38 0 2.5-1.12 2.5-2.5C15 8.11 13.88 7 12.5 7 11.11 7 10 8.11 10 9.5c0 1.38 1.11 2.5 2.5 2.5Z"/></svg>
-                  Point B
-               </label>
-               <input type="text" class="input" name="endingPoint" placeholder="e.g. Hamburg, Germany" required>
-            </div>
-            </div>
-         <div class="mission-planning__form__algorithm-inputs algorithms-config">
-            <h3>Dijkstra's Configuration</h3>
-            <div class="mission-planning__form__algorithm-inputs--elements  ">
-            <div class="input-group">
-               <label for="dijkstraRouteColor">
-                  Dijkstra Route Color
-               </label>
-               <input type="color" class="input-color" name="dijkstraRouteColor" value="#71B2FF" required>
-            </div>
-            <div class="input-group">
-               <label for="a_star">
-                  Dijkstra Background Color
-               </label>
-               <input type="color" class="input-color" name="dijkstraBgColor" value="#ffffff" required>
-            </div>
-         </div>
-         </div>
-         <div class="mission-planning__form__algorithm-inputs algorithms-config">
-            <h3>A* Configuration</h3>
-            <div class="mission-planning__form__algorithm-inputs--elements ">
-         <div class="input-group">
-            <label for="astarRouteColor">
-               A* Route color 
-            </label>
-            <input type="color" class="input-color" id="astarRouteColor" name="astarRouteColor" value="#FF6259" required>
-         </div>
-         <div class="input-group">
-            <label for="astarBgColor">
-               A* Background Color
-            </label>
-            <input type="color" class="input-color" name="astarBgColor" value="#ffffff" required>
-         </div>
-         </div>
-      </div>
-
-
-         </div>
-            <button class="compare__button"> <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M480 32L32 224l256 0 0 256Z"/></svg>
+            <button class="compare__button"> <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M480 32L32 224l256 0 0 256Z" />
+               </svg>
                Compare
             </button>
-        </form>
-        <div class="result"></div>
+         </form>
+         <div class="result"></div>
       </div>
 
 
@@ -95,6 +111,12 @@
       </div>
    </div>
 
-   
+
+   <script>
+      function changeStylesheet(newstylesheet) {
+         document.getElementById('theme').setAttribute('href', newstylesheet);
+      }
+   </script>
 </body>
+
 </html>

@@ -8,7 +8,7 @@ body {
    display: flex;
    align-items: flex-start;
    flex-direction: column;
-   margin: 5rem 2rem;
+   margin: 4rem 2rem;
    width: 38rem;
    position: fixed;
 }
@@ -176,3 +176,27 @@ body {
    width: 84%;
 }
 
+
+.color_switcher {
+   padding-bottom: .3rem;
+   border-bottom: 1px solid #6c6c6c2a;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.color_switcher a {
+   cursor: pointer;
+   font-weight: 700;
+   transition: all .2s;
+   font-size: 2rem;
+}
+
+.color_switcher a:hover {
+   opacity: .4;
+}
+
+
+.color_switcher a:not(:first-child) {
+   margin-left: 1rem;
+}
