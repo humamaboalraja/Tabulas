@@ -7,8 +7,8 @@ import random
 import sys 
 
 from data.PriorityQueue import PriorityQueue
-from app.src.dijkstra import dijkstraGraph
-from app.src.astar import astarGraph
+from src.dijkstra import dijkstraGraph
+from src.astar import astarGraph
 from haversine import haversine, Unit
 
 
@@ -19,6 +19,8 @@ def create_app(test_config=None):
     # create and configure the app
    app = Flask(__name__, instance_relative_config=True,
                 template_folder='templates')
+   
+   app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
    try:
       os.makedirs(app.instance_path)
@@ -30,7 +32,7 @@ def create_app(test_config=None):
    def hello():
       return render_template('index.html')
    
-   @app.route('/compare', methods=['POST'])
+   @app.route('/compare', methods=['POST', 'GET'])
    def compare():
       if request.method == 'POST':
          ox.config(use_cache=True)
@@ -67,7 +69,6 @@ def create_app(test_config=None):
          dijkstraResult = f"Distance from [{request.form['startingPoint']} → {request.form['endingPoint']}] is {str(dijkstraCost)} meters away 🎉 | \n Dijkstra's 🗾 calculated/explored {str(dijkstraVerticesExplored)} vertices and {str(dijkstraEdgesExplored)} edges."
          fig, ax = ox.plot_graph_route(G, dijkstraPath, route_linewidth=4, node_size=0, route_color=dijkstraRouteColor, save=True, bgcolor=dijkstraBgColor, edge_color="#161616", filepath="static/img/dijkstra.jpg", show=False, close=True)
          shutil.rmtree('cache')
-
 
          return render_template('index.html', astar="astar.jpg", dijkstra="dijkstra.jpg", astarResult = astarResult, dijkstraResult = dijkstraResult)
 
