@@ -1,22 +1,23 @@
 body {
-   background-color: bisque;
+   background-color: #0a0a0a;
    font-family: 'Roboto', sans-serif;
-
+   color: #fff;
 }
 
 .mission-planning {
    display: flex;
    align-items: flex-start;
    flex-direction: column;
-   margin: 5rem 2rem;
-   width: 38rem;
+   margin: 2rem 2rem;
+   width: 54rem;
    position: fixed;
 }
 
 .mission-planning h1 {
    font-weight: 700;
    height: .6rem;
-   margin-bottom: 4rem;
+   margin-bottom: 1rem;
+   font-size: 1.6rem;
 }
 
 .mission-planning p {
@@ -28,7 +29,7 @@ body {
 
 .mission-planning__form {
    display: flex;
-   background: #ffecd5;
+   background: #181818;
    padding: 1rem;
    width: 29rem;
    justify-content: center;
@@ -75,6 +76,7 @@ body {
 .input-group label svg {
    width: 1.2rem;
    margin-right: .3rem;
+   fill: #fff;
 }
 
 .input-color, input[type="color"] {
@@ -90,9 +92,11 @@ body {
    width: 12rem;
    padding: 1.3rem 1rem;
    border-radius: 0rem;
-   border: 1px solid #fefefe;
+   border: 1px solid #181818;
    outline: #f00;
    font-size: 1rem;
+   color: #fff;
+   background: #0a0a0a;
 }
 
 
@@ -125,7 +129,7 @@ body {
    padding: 1.2rem 2rem;
    width: inherit;
    border: none;
-   background: #161616;
+   background: #0a0a0a;
    font-size: 1rem;
    color: #fff;
    width: 100%;
