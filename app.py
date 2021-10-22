@@ -6,9 +6,9 @@ import heapq
 import random
 import sys 
 
-from data.PriorityQueue import PriorityQueue
-from src.dijkstra import dijkstraGraph
-from src.astar import astarGraph
+from PriorityQueue import PriorityQueue
+from dijkstra import dijkstraGraph
+from astar import astarGraph
 from haversine import haversine, Unit
 
 
