@@ -7,8 +7,8 @@ import random
 import sys 
 
 from data.PriorityQueue import PriorityQueue
-from src.dijkstra import dijkstraGraph
-from src.astar import astarGraph
+from app.src.dijkstra import dijkstraGraph
+from app.src.astar import astarGraph
 from haversine import haversine, Unit
 
 
