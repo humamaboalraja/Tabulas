@@ -19,6 +19,7 @@ def create_app(test_config=None):
     # create and configure the app
    app = Flask(__name__, instance_relative_config=True,
                 template_folder='templates')
+
    
    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
@@ -74,3 +75,6 @@ def create_app(test_config=None):
          return render_template('index.html', astar="astar.jpg", dijkstra="dijkstra.jpg", astarResult = astarResult, dijkstraResult = dijkstraResult)
 
    return app
+
+   if __name__ == "__main__":
+      app.run(host="0.0.0.0")
