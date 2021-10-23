@@ -18,5 +18,3 @@ EXPOSE 5000
 COPY . .
 CMD ["flask", "run"]
 
-RUN echo "🎉 Tabulas is running on http://localhost:5000"
-
