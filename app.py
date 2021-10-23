@@ -6,9 +6,7 @@ import heapq
 import random
 import sys 
 
-from data.PriorityQueue import PriorityQueue
-from src.dijkstra import dijkstraGraph
-from src.astar import astarGraph
+from src import dijkstra, astar
 from haversine import haversine, Unit
 
 
@@ -59,8 +57,8 @@ def create_app(test_config=None):
          orig = ox.get_nearest_node(G, startingPoint)
          destination = ox.get_nearest_node(G, endingPoint)
 
-         astarGraphObject = astarGraph(G)
-         dijkstraGraphObject = dijkstraGraph(G)
+         astarGraphObject = astar.astarGraph(G)
+         dijkstraGraphObject = dijkstra.dijkstraGraph(G)
 
          astarPath, astarVerticesExplored, astarEdgesExplored, astarCost = astarGraphObject.astar(orig, destination)
          astarResult = f"Distance from [{request.form['startingPoint']} → {request.form['endingPoint']}] is {str(astarCost)} meters away 🎉 \n  A* 🗾 calculated/explored {str(astarVerticesExplored)} vertices and {str(astarEdgesExplored)} edges."

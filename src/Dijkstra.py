@@ -13,7 +13,6 @@ class dijkstraGraph():
         costToVertex= {}
         visitedFromVertex[start] = None 
         costToVertex[start] = 0
-        # keep track of the number of explored vertices and edges
         vertices_explored = 0
         edges_explored = 0
 
