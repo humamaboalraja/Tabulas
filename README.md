@@ -97,21 +97,30 @@ The architecutre of consists of five **directories** [analysis, data, src, stati
    ```
    <br>
 
-<br>
-
----
-
-<br>
+   ---
 
 
-## 🚀 **Run**
-
+4. ###  🚀 **Run**
    And now you can finally run the app using: 
    ```
    flask run
    ```
 
 ---
+
+<br>
+
+## 🐳 **Running with Docker**
+If you already have Docker installed feel free to run the app and set it up in one command:
+
+```
+docker-compose up  
+```
+
+
+---
+
+
 
 <div align="center">
 
