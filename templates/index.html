@@ -59,13 +59,13 @@
                         <label for="dijkstraRouteColor">
                            Dijkstra Route Color
                         </label>
-                        <input type="color" class="input-color" name="dijkstraRouteColor" value="#FFFFFF" required>
+                        <input type="color" class="input-color" name="dijkstraRouteColor" value="{% if request.form['dijkstraRouteColor'] %}{% print request.form['dijkstraRouteColor'] %}{% else %}#FFFFFF{% endif %}" required>
                      </div>
                      <div class="input-group">
                         <label for="a_star">
                            Dijkstra Background Color
                         </label>
-                        <input type="color" class="input-color" name="dijkstraBgColor" value="#FFA3A3" required>
+                        <input type="color" class="input-color" name="dijkstraBgColor" value="{% if request.form['dijkstraBgColor'] %}{% print request.form['dijkstraBgColor'] %}{% else %}#FFA3A3{% endif %}" required>
                      </div>
                   </div>
                </div>
@@ -77,13 +77,13 @@
                            A* Route color
                         </label>
                         <input type="color" class="input-color" id="astarRouteColor" name="astarRouteColor" 
-                           value="#FFFFFF" required>
+                           value="{% if request.form['astarRouteColor'] %} {% print request.form['astarRouteColor'] %}{% else %}#FFFFFF{% endif %}" required>
                      </div>
                      <div class="input-group">
                         <label for="astarBgColor">
                            A* Background Color
                         </label>
-                        <input type="color" class="input-color" name="astarBgColor" value="#FFA3A3" required>
+                        <input type="color" class="input-color" name="astarBgColor" value="{% if request.form['astarBgColor'] %}{% print request.form['astarBgColor'] %}{% else %}#FFA3A3{% endif %}" required>
                      </div>
                   </div>
                </div>
