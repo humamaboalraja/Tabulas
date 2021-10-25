@@ -64,9 +64,9 @@ def create_app(test_config=None):
          dijkstraPath, dijkstraVerticesExplored, dijkstraEdgesExplored, dijkstraCost = dijkstraGraphObject.dijkstra(orig, destination)
          dijkstraResult = f"Distance from [{request.form['startingPoint']} → {request.form['endingPoint']}] is {str(dijkstraCost)} meters away 🎉 | \n Dijkstra's 🗾 calculated/explored {str(dijkstraVerticesExplored)} vertices and {str(dijkstraEdgesExplored)} edges."
          fig, ax = ox.plot_graph_route(G, dijkstraPath, route_linewidth=4, node_size=0, route_color=dijkstraRouteColor, save=True, bgcolor=dijkstraBgColor, edge_color="#161616", filepath="static/img/dijkstra.jpg", show=False, close=True)
-         shutil.rmtree('cache')
+         # shutil.rmtree('cache')
 
-         return render_template('index.html', astar="astar.jpg", dijkstra="dijkstra.jpg", astarResult = astarResult, dijkstraResult = dijkstraResult)
+         return render_template('index.html', astar="astar.jpg", dijkstra="dijkstra.jpg", astarResult = astarResult, dijkstraResult = dijkstraResult, request = request)
 
    return app
 
