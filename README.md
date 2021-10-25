@@ -20,11 +20,11 @@ The architecutre of consists of five **directories** [analysis, data, src, stati
 
 | Service | Type | Description |
 ----------|-----|------------|
-[**analysis**]()  | Placeholder |   functionalities
-[**data**]()   | Placeholder | functionalities
-[**src**]()    | Placeholder | functionalities
-[**static**]() | Placeholder |  placeholder
-[**templates**]()   | Placeholder | functionalities
+[**analysis**]()  | Algorithms |   In-detail analysis, explanation and implementation of `Dijkstra's, A* ` Algorithms
+[**data**]()   | Data Structures | The implemented data structures ewill be used in the Alghorithms
+[**src**]()    | Algorithms | The implementation of `Dijkstra's, A*` that will be used when a user sends a request for calculating the distance between two points
+[**static**]() | Assets |  Styles, Automatically rendered/generated Algorithms results
+[**templates**]()   | UI | Folloing Flask's Architecture style in this folder you can find all the UI relevant files
 
 
 
@@ -116,6 +116,8 @@ If you already have Docker installed feel free to run the app and set it up in o
 ```
 docker-compose up  
 ```
+
+**Tabulas** will be running on [http://localhost:5000](http://localhost:5000) 🚀
 
 
 ---
