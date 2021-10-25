@@ -4,4 +4,4 @@ __pycache__/
 cache
 instance
 
-/static/img/*
+/static/img/
