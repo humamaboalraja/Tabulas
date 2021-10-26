@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1012px" height="766px" viewBox="0 0 1012 766" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ropes</title>
+    <g id="ropes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="1012" height="766"></rect>
+        <g id="Group-9" transform="translate(153.807200, 147.278982)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="331.988801" cy="58.9494881" r="24.932922"></circle>
+            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="183.855879" cy="158.095332" r="24.932922"></circle>
+            <g id="Group-4" transform="translate(477.980361, 227.137659)">
+                <g id="Group-6" transform="translate(29.568000, 61.361256)">
+                    <g id="Group-3" transform="translate(68.096000, 0.000000)">
+                        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="24.932922" cy="24.932922" r="24.932922"></circle>
+                        <text id="1" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="20.6900648" y="32.492922">1</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(143.584679, 102.240488)">
+                        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="23.3856" cy="23.3856" r="23.3856"></circle>
+                        <text id="6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="19.4296032" y="29.398278">6</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-5-Copy" transform="translate(30.016000, 51.052439)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="5.376">
+                        <line x1="53.1061622" y1="0" x2="0" y2="49.7623059" id="Line"></line>
+                        <line x1="126.336" y1="0" x2="73.472" y2="51.5543059" id="Line" transform="translate(99.904000, 25.777153) scale(-1, 1) translate(-99.904000, -25.777153) "></line>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 102.240488)">
+                        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="23.3856" cy="23.3856" r="23.3856"></circle>
+                        <text id="1" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="20.0531429" y="29.398278">1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <line x1="105.28" y1="0.448" x2="0.448" y2="65.856" id="Line" stroke="#FFFFFF" stroke-width="5.376" stroke-linecap="square" transform="translate(52.864000, 33.152000) scale(-1, 1) translate(-52.864000, -33.152000) "></line>
+            </g>
+            <g id="Group-4" transform="translate(332.244158, 332.324131) scale(-1, 1) translate(-332.244158, -332.324131) translate(222.282218, 227.137659)">
+                <g id="Group-6" transform="translate(124.745940, 135.867100) scale(-1, 1) translate(-124.745940, -135.867100) translate(29.568000, 61.361256)">
+                    <g id="Group-3" transform="translate(68.096000, 0.000000)">
+                        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="24.932922" cy="24.932922" r="24.932922"></circle>
+                        <text id="2" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="18.6700648" y="32.492922">2</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(143.584679, 102.240488)">
+                        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="23.3856" cy="23.3856" r="23.3856"></circle>
+                        <text id="4" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="19.4296032" y="29.398278">4</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-5-Copy" transform="translate(30.016000, 51.052439)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="5.376">
+                        <line x1="53.1061622" y1="0" x2="0" y2="49.7623059" id="Line"></line>
+                        <line x1="126.336" y1="0" x2="73.472" y2="51.5543059" id="Line" transform="translate(99.904000, 25.777153) scale(-1, 1) translate(-99.904000, -25.777153) "></line>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 102.240488)">
+                        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="23.3856" cy="23.3856" r="23.3856"></circle>
+                        <text id="2" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="18.0331429" y="29.398278">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <line x1="105.28" y1="0.448" x2="0.448" y2="65.856" id="Line" stroke="#FFFFFF" stroke-width="5.376" stroke-linecap="square" transform="translate(52.864000, 33.152000) scale(-1, 1) translate(-52.864000, -33.152000) "></line>
+            </g>
+            <g id="Group-7" transform="translate(428.114517, 189.711815)">
+                <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="24.932922" cy="24.932922" r="24.932922"></circle>
+                <text id="6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                    <tspan x="17.9532648" y="32.492922">6</tspan>
+                </text>
+            </g>
+            <line x1="423.894963" y1="165.655332" x2="208.843607" y2="215.417638" id="Line" stroke="#FFFFFF" stroke-width="5.376" stroke-linecap="square" transform="translate(316.788801, 190.655332) scale(-1, 1) translate(-316.788801, -190.655332) "></line>
+            <g id="Group-8" transform="translate(0.000000, 165.308143)">
+                <g id="Group-5" transform="translate(0.000000, 12.221209)">
+                    <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="93.9296957" cy="61.7011187" r="24.932922"></circle>
+                    <text id="40" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                        <tspan x="81.6073034" y="69.2611187">40</tspan>
+                    </text>
+                    <g id="Group" transform="translate(0.000000, 138.112685)">
+                        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="23.3856" cy="23.3856" r="23.3856"></circle>
+                        <text id="6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="17.1227429" y="31.3856">6</tspan>
+                        </text>
+                        <text id="Hello" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15" font-weight="bold" letter-spacing="0.214285724" fill="#FFFFFF">
+                            <tspan x="5.41988569" y="69.8">Hello</tspan>
+                        </text>
+                        <text id="na" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15" font-weight="bold" letter-spacing="0.214285724" fill="#FFFFFF">
+                            <tspan x="236.246314" y="152.8">na</tspan>
+                        </text>
+                        <text id="my" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15" font-weight="bold" letter-spacing="0.214285724" fill="#FFFFFF">
+                            <tspan x="157.166314" y="69.8">my</tspan>
+                        </text>
+                        <text id="me_i" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15" font-weight="bold" letter-spacing="0.214285724" fill="#FFFFFF">
+                            <tspan x="372.307029" y="152.8">me_i</tspan>
+                        </text>
+                        <text id="s" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15" font-weight="bold" letter-spacing="0.214285724" fill="#FFFFFF">
+                            <tspan x="525.408457" y="152.8">s</tspan>
+                        </text>
+                        <text id="_Simon" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15" font-weight="bold" letter-spacing="0.214285724" fill="#FFFFFF">
+                            <tspan x="650.822743" y="152.8">_Simon</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-5-Copy" transform="translate(28.977018, 86.924635)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="5.376">
+                        <line x1="53.1061622" y1="0" x2="0" y2="49.7623059" id="Line"></line>
+                        <line x1="126.336" y1="0" x2="73.472" y2="51.5543059" id="Line" transform="translate(99.904000, 25.777153) scale(-1, 1) translate(-99.904000, -25.777153) "></line>
+                    </g>
+                    <g id="Group-2" transform="translate(143.584679, 138.112685)">
+                        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3.87072" fill="#161616" cx="23.3856" cy="23.3856" r="23.3856"></circle>
+                        <text id="3" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                            <tspan x="18.0331429" y="29.398278">3</tspan>
+                        </text>
+                    </g>
+                    <text id="F" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                        <tspan x="161.136339" y="119.80871">F</tspan>
+                    </text>
+                    <text id="E" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                        <tspan x="17.2504191" y="119.80871">E</tspan>
+                    </text>
+                    <text id="C" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                        <tspan x="87.6724191" y="22">C</tspan>
+                    </text>
+                </g>
+                <line x1="158.284102" y1="0" x2="105.17794" y2="49.7623059" id="Line" stroke="#FFFFFF" stroke-width="5.376" stroke-linecap="square"></line>
+            </g>
+            <text id="22" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                <tspan x="319.463087" y="66.5094881">22</tspan>
+            </text>
+            <text id="9" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714298" fill="#FFFFFF">
+                <tspan x="177.593022" y="165.655332">9</tspan>
+            </text>
+            <line x1="308.244801" y1="72.2491545" x2="203.412801" y2="137.657154" id="Line" stroke="#FFFFFF" stroke-width="5.376" stroke-linecap="square"></line>
+            <text id="A" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="320.723465" y="22">A</tspan>
+            </text>
+            <text id="B" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="177.781431" y="121.368589">B</tspan>
+            </text>
+            <text id="J" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="237.613865" y="371.413236">J</tspan>
+            </text>
+            <text id="G" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="307.778891" y="273.511169">G</tspan>
+            </text>
+            <text id="D" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="438.995293" y="180.893312">D</tspan>
+            </text>
+            <text id="H" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="584.580653" y="273.511169">H</tspan>
+            </text>
+            <text id="M" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="515.803353" y="365.89122">M</tspan>
+            </text>
+            <text id="K" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="381.978693" y="371.413236">K</tspan>
+            </text>
+            <text id="N" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="21.34" font-weight="bold" letter-spacing="0.304857154" fill="#FFFFFF">
+                <tspan x="659.087873" y="365.89122">N</tspan>
+            </text>
+        </g>
+        <text id="Ropes" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF">
+            <tspan x="448.972857" y="66">Ropes</tspan>
+        </text>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15.8956" font-weight="bold" letter-spacing="0.227080005" fill="#FFFFFF">
+            <tspan x="434.82518" y="713.5">@humamaboalraja</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="667px" height="546px" viewBox="0 0 667 546" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>binary_search_trees</title>
+    <g id="binary_search_trees" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="667" height="546"></rect>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15.8956" font-weight="bold" letter-spacing="0.227080005" fill="#FFFFFF">
+            <tspan x="262.82518" y="510.5">@humamaboalraja</tspan>
+        </text>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="4.32" fill="#161616" cx="334" cy="65.6566223" r="27.8269218"></circle>
+        <g id="Group" transform="translate(140.846156, 148.483544)" fill="#161616" stroke="#FFFFFF" stroke-width="4.32">
+            <circle id="Oval-Copy" cx="27.8269218" cy="27.8269218" r="27.8269218"></circle>
+            <circle id="Oval-Copy-2" cx="358.480766" cy="27.8269218" r="27.8269218"></circle>
+        </g>
+        <g id="Group-3" transform="translate(60.619234, 259.137388)" fill="#161616" stroke="#FFFFFF" stroke-width="4.32">
+            <g id="Group-Copy">
+                <circle id="Oval-Copy" cx="27.8269218" cy="27.8269218" r="27.8269218"></circle>
+                <circle id="Oval-Copy-2" cx="198.680766" cy="27.8269218" r="27.8269218"></circle>
+            </g>
+            <g id="Group-Copy-2" transform="translate(495.131524, 3.453844)">
+                <circle id="Oval-Copy-2" cx="26.1" cy="26.1" r="26.1"></circle>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(195.426922, 369.791232)" fill="#161616" stroke="#FFFFFF" stroke-width="4.32">
+            <g id="Group-Copy-3" transform="translate(328.798457, 0.000000)">
+                <circle id="Oval-Copy-2" cx="26.1" cy="26.1" r="26.1"></circle>
+            </g>
+            <g id="Group-Copy-5">
+                <circle id="Oval-Copy" cx="26.1" cy="26.1" r="26.1"></circle>
+                <circle id="Oval-Copy-2" cx="123.3" cy="26.1" r="26.1"></circle>
+            </g>
+        </g>
+        <text id="8" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="326.171429" y="75.6566223">8</tspan>
+        </text>
+        <text id="3" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="160.844507" y="186.310466">3</tspan>
+        </text>
+        <text id="10" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="486.444779" y="186.310466">10</tspan>
+        </text>
+        <text id="1" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="83.3695067" y="296.96431">1</tspan>
+        </text>
+        <text id="6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="250.671429" y="296.96431">6</tspan>
+        </text>
+        <text id="14" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="571.543236" y="296.96431">14</tspan>
+        </text>
+        <text id="4" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="213.596808" y="404.891232">4</tspan>
+        </text>
+        <text id="7" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="309.671429" y="404.891232">7</tspan>
+        </text>
+        <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="537.617857" y="404.891232">13</tspan>
+        </text>
+        <line x1="574" y1="315" x2="549" y2="368" id="Line-Copy-5" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></line>
+        <g id="android-arrow-forward-copy" transform="translate(248.686604, 117.602017) rotate(140.000000) translate(-248.686604, -117.602017) translate(178.956538, 106.872085)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="4.95461913e-13 3.15495 133.386686 13.8290219 127.22793 19.2515469 129.515583 21.4598643 139.46013 12.2515469 129.22793 3.2515469 127.019687 5.4599381 133.386686 10.6740719 0 0"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-2" transform="translate(419.313396, 117.602017) scale(-1, 1) rotate(140.000000) translate(-419.313396, -117.602017) translate(349.583331, 106.872085)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="4.95461913e-13 3.15495 133.386686 13.8290219 127.22793 19.2515469 129.515583 21.4598643 139.46013 12.2515469 129.22793 3.2515469 127.019687 5.4599381 133.386686 10.6740719 0 0"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-3" transform="translate(541.278924, 234.736740) scale(-1, 1) rotate(140.000000) translate(-541.278924, -234.736740) translate(498.819754, 225.018620)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-1.48633739e-13 19.4362406 78.8448943 10.577475 72.6861391 16 74.9737915 18.2083174 84.9183391 9 74.6861391 -4.54621005e-13 72.4778955 2.2083912 78.8448943 7.422525 -7.52014828e-13 16.2812906"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-4" transform="translate(210.727702, 235.230856) scale(-1, 1) rotate(140.000000) translate(-210.727702, -235.230856) translate(168.268532, 225.512736)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-1.48633739e-13 19.4362406 78.8448943 10.577475 72.6861391 16 74.9737915 18.2083174 84.9183391 9 74.6861391 -4.54621005e-13 72.4778955 2.2083912 78.8448943 7.422525 -7.52014828e-13 16.2812906"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-6" transform="translate(287.045142, 342.794710) scale(-1, 1) rotate(130.000000) translate(-287.045142, -342.794710) translate(251.979088, 333.690552)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-5.85461065e-13 16.8213545 64.0586618 10.577475 57.8999066 16 60.187559 18.2083174 70.1321066 9 59.8999066 1.26345583e-16 57.691663 2.2083912 64.0586618 7.422525 -5.85461065e-13 13.6664045"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-7" transform="translate(238.135105, 341.403559) rotate(121.000000) translate(-238.135105, -341.403559) translate(207.162592, 332.299401)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="2.64087528e-12 15.8606562 55.871581 10.577475 49.7128258 16 52.0004782 18.2083174 61.9450258 9 51.7128258 -4.54621005e-13 49.5045822 2.2083912 55.871581 7.422525 1.76058352e-12 12.7057062"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(126.083226, 230.483798) rotate(140.000000) translate(-126.083226, -230.483798) translate(84.064068, 220.726657)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-5.97128158e-13 19.5142819 77.9648723 10.577475 71.8061171 16 74.0937695 18.2083174 84.0383171 9 73.8061171 1.26345583e-16 71.5978735 2.2083912 77.9648723 7.422525 -5.97128158e-13 16.3593319"></polygon>
+        </g>
+    </g>
+</svg>

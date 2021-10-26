@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1206px" height="721px" viewBox="0 0 1206 721" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>red_black_trees</title>
+    <g id="red_black_trees" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="1206" height="721"></rect>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15.8956" font-weight="bold" letter-spacing="0.227080005" fill="#FFFFFF">
+            <tspan x="498.82518" y="688.5">@humamaboalraja</tspan>
+        </text>
+        <g id="Group-4" transform="translate(520.856232, 66.829701)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="4.32" fill="#161616" cx="27.8269218" cy="27.8269218" r="27.8269218"></circle>
+            <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+                <tspan x="14.944779" y="37.8269218">13</tspan>
+            </text>
+        </g>
+        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="4.32" fill="#FF7E7E" cx="301.6" cy="209.310466" r="27.8269218"></circle>
+        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4.32" fill="#FF7E7E" cx="735.326922" cy="209.310466" r="27.8269218"></circle>
+        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="4.32" fill="#161616" cx="222.446156" cy="319.96431" r="27.8269218"></circle>
+        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4.32" fill="#161616" cx="393.3" cy="319.96431" r="27.8269218"></circle>
+        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="4.32" fill="#161616" cx="657.6" cy="321.691232" r="26.1"></circle>
+        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4.32" fill="#161616" cx="817.850758" cy="321.691232" r="26.1"></circle>
+        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="4.32" fill="#FF7E7E" cx="771.825379" cy="428.891232" r="26.1"></circle>
+        <g id="Group-2" transform="translate(1010.925379, 402.791232)">
+            <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4.32" fill="#FF7E7E" cx="26.1" cy="26.1" r="26.1"></circle>
+            <text id="27" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#000000">
+                <tspan x="10.9924781" y="35.1">27</tspan>
+            </text>
+        </g>
+        <text id="22" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#000000">
+            <tspan x="756.542857" y="437.891232">22</tspan>
+        </text>
+        <circle id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4.32" fill="#FF7E7E" cx="255.128465" cy="428.891232" r="26.1"></circle>
+        <text id="8" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#000000">
+            <tspan x="293.771429" y="219.310466">8</tspan>
+        </text>
+        <text id="17" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#000000">
+            <tspan x="722.569779" y="219.310466">17</tspan>
+        </text>
+        <text id="1" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="217.369507" y="329.96431">1</tspan>
+        </text>
+        <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="382.267857" y="329.96431">11</tspan>
+        </text>
+        <text id="15" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="644.617857" y="329.96431">15</tspan>
+        </text>
+        <text id="25" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#FFFFFF">
+            <tspan x="804.768236" y="329.96431">25</tspan>
+        </text>
+        <text id="6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="25" font-weight="bold" letter-spacing="0.357142856" fill="#000000">
+            <tspan x="247.596808" y="436.891232">6</tspan>
+        </text>
+        <line x1="294.27027" y1="237.461712" x2="235" y2="293" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></line>
+        <line x1="376.27027" y1="237.461712" x2="317" y2="293" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(346.635135, 265.230856) scale(-1, 1) translate(-346.635135, -265.230856) "></line>
+        <line x1="255" y1="347.252944" x2="233.488206" y2="401" id="Line-Copy-3" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(244.244103, 374.126472) scale(-1, 1) translate(-244.244103, -374.126472) "></line>
+        <g id="Group-5-Copy" transform="translate(665.000000, 238.461712)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="6">
+            <line x1="59.2702703" y1="0" x2="0" y2="55.5382878" id="Line"></line>
+            <line x1="141" y1="0" x2="82" y2="57.5382878" id="Line" transform="translate(111.500000, 28.769144) scale(-1, 1) translate(-111.500000, -28.769144) "></line>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(422.516641, 149.204296) rotate(151.000000) translate(-422.516641, -149.204296) translate(314.465677, 140.100137)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-1.99024391e-12 4.049997 210.028484 10.577475 203.869729 16 206.157381 18.2083174 216.101929 9 205.869729 9.09621047e-13 203.661485 2.2083912 210.028484 7.422525 -1.22249563e-12 0.895047002"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(645.540992, 147.446856) scale(-1, 1) rotate(151.000000) translate(-645.540992, -147.446856) translate(563.265806, 138.342697)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-1.03934771e-12 12.0300642 158.476927 10.577475 152.318171 16 154.605824 18.2083174 164.550371 9 154.318171 9.09431529e-13 152.109928 2.2083912 158.476927 7.422525 7.1445336e-13 8.87511419"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(173.592629, 369.040078) rotate(124.000000) translate(-173.592629, -369.040078) translate(133.632113, 359.935919)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(111.749303, 411.891232)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(214.350777, 481.110981) rotate(124.000000) translate(-214.350777, -481.110981) translate(174.390261, 472.006823)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(158.546156, 526.641197)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(297.137429, 481.110981) scale(-1, 1) rotate(124.000000) translate(-297.137429, -481.110981) translate(257.176914, 472.006823)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(321.052670, 538.742252) scale(-1, 1) translate(-321.052670, -538.742252) translate(289.102670, 526.641197)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" transform="translate(31.950000, 11.801054) scale(-1, 1) translate(-31.950000, -11.801054) " font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(353.002670, 374.992764) rotate(124.000000) translate(-353.002670, -374.992764) translate(313.042154, 365.888606)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(309.600000, 415.024836)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(435.789323, 374.992764) scale(-1, 1) rotate(124.000000) translate(-435.789323, -374.992764) translate(395.828807, 365.888606)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(465.682649, 427.125890) scale(-1, 1) translate(-465.682649, -427.125890) translate(433.732649, 415.024836)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" transform="translate(31.950000, 11.801054) scale(-1, 1) translate(-31.950000, -11.801054) " font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(995.632053, 481.110981) rotate(124.000000) translate(-995.632053, -481.110981) translate(955.671537, 472.006823)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(935.525379, 520.548767)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="android-arrow-forward-copy-5" transform="translate(1078.418705, 481.110981) scale(-1, 1) rotate(124.000000) translate(-1078.418705, -481.110981) translate(1038.458190, 472.006823)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+        </g>
+        <g id="Group" transform="translate(1089.862032, 532.649822) scale(-1, 1) translate(-1089.862032, -532.649822) translate(1057.912032, 520.548767)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+            <text id="NIL" transform="translate(31.950000, 11.801054) scale(-1, 1) translate(-31.950000, -11.801054) " font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(679.020246, 442.891232)">
+            <g id="android-arrow-forward-copy-5" transform="translate(54.369922, 38.219750) rotate(124.000000) translate(-54.369922, -38.219750) translate(14.409407, 29.115591)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 77.657536)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+                <text id="NIL" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                    <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+                </text>
+            </g>
+            <g id="android-arrow-forward-copy-5" transform="translate(137.156575, 38.219750) scale(-1, 1) rotate(124.000000) translate(-137.156575, -38.219750) translate(97.196059, 29.115591)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="-2.27149233e-12 4.94733641 73.8475867 10.577475 67.6888315 16 69.9764839 18.2083174 79.9210315 9 69.6888315 -9.09368356e-13 67.4805879 2.2083912 73.8475867 7.422525 -2.27149233e-12 1.79238641"></polygon>
+            </g>
+            <g id="Group" transform="translate(163.125321, 89.758590) scale(-1, 1) translate(-163.125321, -89.758590) translate(131.175321, 77.657536)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+                <text id="NIL" transform="translate(31.950000, 11.801054) scale(-1, 1) translate(-31.950000, -11.801054) " font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                    <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(580.828680, 334.728197)">
+            <g id="android-arrow-forward-copy-5" transform="translate(42.692014, 30.182267) rotate(124.000000) translate(-42.692014, -30.182267) translate(13.779400, 21.078108)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="9.09494702e-13 9.47084151 51.7517817 10.577475 45.5930265 16 47.8806789 18.2083174 57.8252265 9 47.5930265 1.26345583e-16 45.3847829 2.2083912 51.7517817 7.422525 9.09494702e-13 6.31589151"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 56.460926)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+                <text id="NIL" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                    <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+                </text>
+            </g>
+            <g id="android-arrow-forward-copy-5" transform="translate(112.675321, 28.871445) scale(-1, 1) rotate(124.000000) translate(-112.675321, -28.871445) translate(83.990898, 19.767286)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="-3.26104131e-12 6.99250441 51.2954006 10.577475 45.1366454 16 47.4242978 18.2083174 57.3688454 9 47.1366454 1.26345583e-16 44.9284018 2.2083912 51.2954006 7.422525 -3.26104131e-12 3.83755441"></polygon>
+            </g>
+            <g id="Group" transform="translate(129.625321, 68.561980) scale(-1, 1) translate(-129.625321, -68.561980) translate(97.675321, 56.460926)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="63.9" height="24.2021084"></rect>
+                <text id="NIL" transform="translate(31.950000, 11.801054) scale(-1, 1) translate(-31.950000, -11.801054) " font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18" font-weight="bold" letter-spacing="0.257142869" fill="#000000">
+                    <tspan x="17.5332857" y="19.3010542">NIL</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="android-arrow-forward-copy-6" transform="translate(790.173011, 373.883772) rotate(124.000000) translate(-790.173011, -373.883772) translate(757.087590, 364.779613)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="0 13.0722721 60.0973962 10.577475 53.938641 16 56.2262934 18.2083174 66.170841 9 55.938641 1.26345583e-16 53.7303974 2.2083912 60.0973962 7.422525 0 9.91732207"></polygon>
+        </g>
+        <g id="android-arrow-forward-copy-7" transform="translate(931.542473, 366.978109) scale(-1, 1) rotate(144.000000) translate(-931.542473, -366.978109) translate(836.045011, 346.327988)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="0 3.15495 184.921478 33.6693996 178.762723 39.0919246 181.050375 41.300242 190.994923 32.0919246 180.762723 23.0919246 178.554479 25.3003158 184.921478 30.5144496 2.03565083e-12 0"></polygon>
+        </g>
+    </g>
+</svg>

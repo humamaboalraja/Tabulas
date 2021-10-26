@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1022px" height="669px" viewBox="0 0 1022 669" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>binary_tree copy 2</title>
+    <g id="binary_tree-copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="1022" height="669"></rect>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15.8956" font-weight="bold" letter-spacing="0.227080005" fill="#FFFFFF">
+            <tspan x="439.82518" y="656.5">@humamaboalraja</tspan>
+        </text>
+        <g id="Big-O" transform="translate(109.000000, 97.000000)" fill-rule="nonzero">
+            <polygon id="Path" fill="#FFFFFF" points="54 450 804 450 804 440"></polygon>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0" fill="#FFFFFF" points="54 0 54 450 804 450"></polyline>
+            <line x1="54" y1="448" x2="804" y2="448" id="Path" stroke="#000000" stroke-width="2" fill-opacity="0" fill="#000000"></line>
+            <text id="O(log-n),-O(1)" fill="#FFFFFF" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="704" y="434">O(log n), O(1)</tspan>
+            </text>
+            <line x1="54" y1="450" x2="804" y2="400" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0" fill="#000000"></line>
+            <text id="O(n)" fill="#FFFFFF" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="764" y="390">O(n)</tspan>
+            </text>
+            <path d="M54,450 C287.333333,383.333333 537.333333,283.333333 804,150" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0" fill="#000000"></path>
+            <text id="O(n-log-n)" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="634" y="190">O(n log n)</tspan>
+            </text>
+            <path d="M54,450 C140.666667,403.333333 207.333333,253.333333 254,0" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0" fill="#000000"></path>
+            <text id="O(n^2)" fill="#FFFFFF" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="264" y="30">O(n^2)</tspan>
+            </text>
+            <path d="M54,450 C104,430 124,350 124,0" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0" fill="#000000"></path>
+            <text id="O(2^n)" fill="#FFFFFF" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="139" y="20">O(2^n)</tspan>
+            </text>
+            <path d="M54,450 C84,450 84,350 84,0" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0" fill="#000000"></path>
+            <text id="O(n!)" fill="#FFFFFF" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="89" y="20">O(n!)</tspan>
+            </text>
+            <text id="Operations" fill="#FFFFFF" transform="translate(12.000000, 225.000000) rotate(-90.000000) translate(-12.000000, -225.000000) " font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold">
+                <tspan x="-40.5" y="233">Operations</tspan>
+            </text>
+            <text id="Elements" fill="#FFFFFF" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold">
+                <tspan x="382" y="492">Elements</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

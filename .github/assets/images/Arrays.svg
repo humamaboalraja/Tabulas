@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="674px" height="427px" viewBox="0 0 674 427" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrays</title>
+    <g id="Arrays" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="674" height="427"></rect>
+        <g id="Group-5" transform="translate(111.000000, 115.500000)">
+            <g id="Group-3" transform="translate(0.000000, 51.000000)">
+                <g id="Group" transform="translate(0.000000, 37.000000)" stroke="#FFFFFF">
+                    <rect id="Rectangle" stroke-width="1.6" x="0" y="0" width="452" height="44"></rect>
+                    <g id="Group-2" transform="translate(44.800000, 0.000000)" stroke-linecap="square" stroke-width="2">
+                        <line x1="0.4" y1="0.392857143" x2="0.4" y2="43.6071429" id="Line"></line>
+                        <line x1="45.6" y1="0.392857143" x2="45.6" y2="43.6071429" id="Line-Copy"></line>
+                        <line x1="90.8" y1="0.392857143" x2="90.8" y2="43.6071429" id="Line-Copy-2"></line>
+                        <line x1="136" y1="0.392857143" x2="136" y2="43.6071429" id="Line-Copy-3"></line>
+                        <line x1="181.2" y1="0.392857143" x2="181.2" y2="43.6071429" id="Line-Copy-4"></line>
+                        <line x1="226.4" y1="0.392857143" x2="226.4" y2="43.6071429" id="Line-Copy-5"></line>
+                        <line x1="271.6" y1="0.392857143" x2="271.6" y2="43.6071429" id="Line-Copy-6"></line>
+                        <line x1="316.8" y1="0.392857143" x2="316.8" y2="43.6071429" id="Line-Copy-7"></line>
+                        <line x1="362" y1="0.392857143" x2="362" y2="43.6071429" id="Line-Copy-8"></line>
+                    </g>
+                </g>
+                <text id="0" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="9.85828571" y="119">0</tspan>
+                </text>
+                <text id="H" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="12.6437257" y="68.5">H</tspan>
+                </text>
+                <text id="100" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="1.43142857" y="20">100</tspan>
+                </text>
+                <text id="101" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="49.0514286" y="20">101</tspan>
+                </text>
+                <text id="102" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="92.4314286" y="20">102</tspan>
+                </text>
+                <text id="103" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="141.431429" y="20">103</tspan>
+                </text>
+                <text id="104" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="185.431429" y="20">104</tspan>
+                </text>
+                <text id="105" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="231.931429" y="20">105</tspan>
+                </text>
+                <text id="106" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="20" font-weight="bold" letter-spacing="0.285714286" fill="#FF8484">
+                    <tspan x="275.931429" y="20">106</tspan>
+                </text>
+                <polygon id=".-copy-6" fill="#FF8484" fill-rule="nonzero" points="342.68 17.18 342.68 12 337.5 12 337.5 17.18"></polygon>
+                <polygon id=".-copy-7" fill="#FF8484" fill-rule="nonzero" points="387.18 17.18 387.18 12 382 12 382 17.18"></polygon>
+                <polygon id=".-copy-8" fill="#FF8484" fill-rule="nonzero" points="432.68 17.18 432.68 12 427.5 12 427.5 17.18"></polygon>
+                <text id="1" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="57.9842857" y="119">1</tspan>
+                </text>
+                <text id="Z" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="58.8288057" y="68.5">Z</tspan>
+                </text>
+                <text id="2" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="100.858286" y="119">2</tspan>
+                </text>
+                <text id="H" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="102.643726" y="68.5">H</tspan>
+                </text>
+                <text id="3" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="149.858286" y="119">3</tspan>
+                </text>
+                <text id="A" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="148.972926" y="68.5">A</tspan>
+                </text>
+                <text id="4" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="193.858286" y="119">4</tspan>
+                </text>
+                <text id="F" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="196.720106" y="68.5">F</tspan>
+                </text>
+                <text id="5" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="240.358286" y="119">5</tspan>
+                </text>
+                <text id="O" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="239.816406" y="68.5">O</tspan>
+                </text>
+                <text id="6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="26" font-weight="bold" letter-spacing="0.371428571" fill="#FF8484">
+                    <tspan x="284.358286" y="119">6</tspan>
+                </text>
+                <text id="V" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="22.36" font-weight="bold" letter-spacing="0.319428578" fill="#FF8484">
+                    <tspan x="287.540006" y="68.5">V</tspan>
+                </text>
+                <polygon id="." fill="#FF8484" fill-rule="nonzero" points="342.68 113.59 342.68 108.41 337.5 108.41 337.5 113.59"></polygon>
+                <polygon id=".-copy-3" fill="#FF8484" fill-rule="nonzero" points="342.68 61.59 342.68 56.41 337.5 56.41 337.5 61.59"></polygon>
+                <polygon id=".-copy" fill="#FF8484" fill-rule="nonzero" points="387.18 113.59 387.18 108.41 382 108.41 382 113.59"></polygon>
+                <polygon id=".-copy-4" fill="#FF8484" fill-rule="nonzero" points="387.18 61.59 387.18 56.41 382 56.41 382 61.59"></polygon>
+                <polygon id=".-copy-2" fill="#FF8484" fill-rule="nonzero" points="432.68 113.59 432.68 108.41 427.5 108.41 427.5 113.59"></polygon>
+                <polygon id=".-copy-5" fill="#FF8484" fill-rule="nonzero" points="432.68 61.59 432.68 56.41 427.5 56.41 427.5 61.59"></polygon>
+            </g>
+            <g id="Group-4" transform="translate(155.000000, 0.000000)" fill="#FFFFFF" font-family="Sk-Modernist-Bold, Sk-Modernist" font-weight="bold">
+                <text id="Memory-Locations" font-size="16.22" letter-spacing="0.23171429">
+                    <tspan x="0.122075676" y="16">Memory Locations</tspan>
+                </text>
+                <text id="Index-(Positions)" font-size="16.224" letter-spacing="0.231771433">
+                    <tspan x="0.0114788165" y="223">Index (Positions)</tspan>
+                </text>
+            </g>
+        </g>
+        <text font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29.196" font-weight="bold" letter-spacing="0.417085728" fill="#FFFFFF">
+            <tspan x="292.159115" y="57">Arrays</tspan>
+        </text>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="11.354" font-weight="bold" letter-spacing="0.162200005" fill="#FFFFFF">
+            <tspan x="286.160843" y="407">@humamaboalraja</tspan>
+        </text>
+    </g>
+</svg>

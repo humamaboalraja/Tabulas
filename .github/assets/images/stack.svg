@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="884px" height="515px" viewBox="0 0 884 515" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>stack</title>
+    <g id="stack" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="884" height="515"></rect>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15.8956" font-weight="bold" letter-spacing="0.227080005" fill="#FFFFFF">
+            <tspan x="370.82518" y="475.5">@humamaboalraja</tspan>
+        </text>
+        <text id="Stack" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29.196" font-weight="bold" letter-spacing="0.417085728" fill="#FFFFFF">
+            <tspan x="400.885776" y="61">Stack</tspan>
+        </text>
+        <text id="Insertion-and-Deleti" font-family="Sk-Modernist-Regular, Sk-Modernist" font-size="17.5176" font-weight="normal" letter-spacing="0.250251442" fill="#FFFFFF">
+            <tspan x="266.110783" y="91">Insertion and Deletion happen on same end</tspan>
+        </text>
+        <g id="Group" transform="translate(136.500000, 146.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="2.84217094e-14" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="240" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="120" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="360" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" x="40" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-8" fill="#FFFFFF" x="280" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="160" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-9" fill="#FFFFFF" x="400" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="80" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-10" fill="#FFFFFF" x="320" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="200" y="0" width="28" height="223" rx="5"></rect>
+            <rect id="Rectangle-Copy-11" fill="#FFA6A6" x="440" y="0" width="28" height="223" rx="5"></rect>
+            <g id="android-arrow-forward" transform="translate(454.000000, 251.193743) rotate(90.000000) translate(-454.000000, -251.193743) translate(436.764010, 243.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="0 9.49482 29.0058797 9.5197275 23.463 14.4 25.5218872 16.3874857 34.47198 8.1 25.263 0 23.2755808 1.98755208 29.0058797 6.6802725 0 6.655365"></polygon>
+            </g>
+            <text id="Top" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="12.976" font-weight="bold" letter-spacing="0.185371435" fill="#FF8484">
+                <tspan x="442.874007" y="284.429733">Top</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(624.348239, 149.000000)">
+            <g id="arrow-simple-2" transform="translate(25.453181, 178.465893) rotate(80.000000) translate(-25.453181, -178.465893) translate(10.251761, 163.330696)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M30.4,7.64519426 C30.4037867,7.58191753 30.4037867,7.51847099 30.4,7.45519426 C30.3907692,7.29538069 30.3600944,7.13753354 30.3088,6.98589426 C30.2899627,6.92144431 30.2677657,6.85802425 30.2423,6.79589426 C30.1522501,6.58387972 30.0233712,6.39056128 29.8623,6.22589426 L24.1623,0.556294262 C23.4203503,-0.185431421 22.2176497,-0.185431421 21.4757,0.556294262 C21.1189,0.909571545 20.918153,1.39083759 20.918153,1.89294426 C20.918153,2.39505093 21.1189,2.87631698 21.4757,3.22959426 L23.9457,5.67869426 C0.2755,6.16509426 0,28.1366943 0,28.3703943 C0,29.4197353 0.850658975,30.2703943 1.9,30.2703943 C2.94934102,30.2703943 3.8,29.4197353 3.8,28.3703943 C3.8,27.6103943 4.0451,9.97079426 23.8963,9.49579426 L21.4624,11.9163943 C21.1057134,12.2693455 20.9050119,12.7502976 20.9050119,13.2520943 C20.9050119,13.753891 21.1057134,14.234843 21.4624,14.5877943 C22.2043497,15.3295199 23.4070503,15.3295199 24.149,14.5877943 L29.849,8.91819426 C29.8661,8.90109426 29.8718,8.87829426 29.8889,8.86119426 C30.0488225,8.70138201 30.177674,8.51325888 30.2689,8.30639426 C30.2689,8.29119426 30.2689,8.27409426 30.2822,8.25699426 C30.355619,8.06114411 30.3954453,7.85430401 30.4,7.64519426 Z" id="arrow_simple_2"></path>
+            </g>
+            <g id="arrow-simple-2-copy" transform="translate(27.796719, 40.070628) scale(-1, -1) translate(-27.796719, -40.070628) translate(12.595299, 24.935431)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M30.4,7.64519426 C30.4037867,7.58191753 30.4037867,7.51847099 30.4,7.45519426 C30.3907692,7.29538069 30.3600944,7.13753354 30.3088,6.98589426 C30.2899627,6.92144431 30.2677657,6.85802425 30.2423,6.79589426 C30.1522501,6.58387972 30.0233712,6.39056128 29.8623,6.22589426 L24.1623,0.556294262 C23.4203503,-0.185431421 22.2176497,-0.185431421 21.4757,0.556294262 C21.1189,0.909571545 20.918153,1.39083759 20.918153,1.89294426 C20.918153,2.39505093 21.1189,2.87631698 21.4757,3.22959426 L23.9457,5.67869426 C0.2755,6.16509426 0,28.1366943 0,28.3703943 C0,29.4197353 0.850658975,30.2703943 1.9,30.2703943 C2.94934102,30.2703943 3.8,29.4197353 3.8,28.3703943 C3.8,27.6103943 4.0451,9.97079426 23.8963,9.49579426 L21.4624,11.9163943 C21.1057134,12.2693455 20.9050119,12.7502976 20.9050119,13.2520943 C20.9050119,13.753891 21.1057134,14.234843 21.4624,14.5877943 C22.2043497,15.3295199 23.4070503,15.3295199 24.149,14.5877943 L29.849,8.91819426 C29.8661,8.90109426 29.8718,8.87829426 29.8889,8.86119426 C30.0488225,8.70138201 30.177674,8.51325888 30.2689,8.30639426 C30.2689,8.29119426 30.2689,8.27409426 30.2822,8.25699426 C30.355619,8.06114411 30.3954453,7.85430401 30.4,7.64519426 Z" id="arrow_simple_2"></path>
+            </g>
+            <text id="Pop-(Remove)" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="12.976" font-weight="bold" letter-spacing="0.185371435" fill="#FF8484">
+                <tspan x="0.286291392" y="218">Pop (Remove)</tspan>
+            </text>
+            <text id="Push-(Add)" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="12.98" font-weight="bold" letter-spacing="0.185428575" fill="#FF8484">
+                <tspan x="0.142597124" y="13">Push (Add)</tspan>
+            </text>
+        </g>
+        <text id="Last-in-First-Out" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="18.1664" font-weight="bold" letter-spacing="0.25952" fill="#FFFFFF">
+            <tspan x="686.167451" y="265">Last in First Out</tspan>
+        </text>
+    </g>
+</svg>

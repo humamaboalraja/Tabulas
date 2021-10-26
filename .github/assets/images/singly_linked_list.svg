@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="674px" height="342px" viewBox="0 0 674 342" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>singly_linked_lists</title>
+    <g id="singly_linked_lists" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="674" height="342"></rect>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="11.354" font-weight="bold" letter-spacing="0.162200005" fill="#FFFFFF">
+            <tspan x="286.160843" y="324">@humamaboalraja</tspan>
+        </text>
+        <g id="Group-4" transform="translate(68.000000, 126.250000)">
+            <g id="android-arrow-forward" transform="translate(92.930000, 93.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="0 10.5498 32.2287552 10.577475 26.07 16 28.3576524 18.2083174 38.3022 9 28.07 0 25.8617564 2.2083912 32.2287552 7.422525 0 7.39485"></polygon>
+            </g>
+            <g id="android-arrow-forward-copy-2" transform="translate(224.232200, 93.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="0 10.5498 32.2287552 10.577475 26.07 16 28.3576524 18.2083174 38.3022 9 28.07 0 25.8617564 2.2083912 32.2287552 7.422525 0 7.39485"></polygon>
+            </g>
+            <g id="android-arrow-forward-copy-3" transform="translate(355.534400, 93.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="0 10.5498 32.2287552 10.577475 26.07 16 28.3576524 18.2083174 38.3022 9 28.07 0 25.8617564 2.2083912 32.2287552 7.422525 0 7.39485"></polygon>
+            </g>
+            <g id="android-arrow-forward-copy-4" transform="translate(486.836600, 93.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="0 10.5498 32.2287552 10.577475 26.07 16 28.3576524 18.2083174 38.3022 9 28.07 0 25.8617564 2.2083912 32.2287552 7.422525 0 7.39485"></polygon>
+            </g>
+            <g id="Group" transform="translate(16.250000, 0.000000)">
+                <g id="android-arrow-forward-copy" transform="translate(13.500000, 40.651100) rotate(90.000000) translate(-13.500000, -40.651100) translate(-5.651100, 31.546941)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="Path" points="0 10.5498 32.2287552 10.577475 26.07 16 28.3576524 18.2083174 38.3022 9 28.07 0 25.8617564 2.2083912 32.2287552 7.422525 0 7.39485"></polygon>
+                </g>
+                <text id="Head" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="10.2186" font-weight="bold" letter-spacing="0.145980003" fill="#FF8484">
+                    <tspan x="0.373478393" y="10">Head</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 81.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#000000" x="0" y="0" width="93" height="42"></rect>
+                <text id="A" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="16.22" font-weight="bold" letter-spacing="0.23171429" fill="#FF8484">
+                    <tspan x="23.5354229" y="27.5">A</tspan>
+                </text>
+                <line x1="59.5" y1="42" x2="59.5" y2="0.5" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></line>
+            </g>
+            <g id="Group-3" transform="translate(131.232200, 81.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#000000" x="0" y="0" width="93" height="42"></rect>
+                <text id="B" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="16.22" font-weight="bold" letter-spacing="0.23171429" fill="#FF8484">
+                    <tspan x="24.1031229" y="27.5">B</tspan>
+                </text>
+                <line x1="59.5" y1="42" x2="59.5" y2="0.5" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></line>
+            </g>
+            <g id="Group-3" transform="translate(262.534400, 81.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#000000" x="0" y="0" width="93" height="42"></rect>
+                <text id="C" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="16.22" font-weight="bold" letter-spacing="0.23171429" fill="#FF8484">
+                    <tspan x="23.6408529" y="27.5">C</tspan>
+                </text>
+                <line x1="59.5" y1="42" x2="59.5" y2="0.5" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></line>
+            </g>
+            <g id="Group-3" transform="translate(393.836600, 81.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#000000" x="0" y="0" width="93" height="42"></rect>
+                <text id="D" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="16.22" font-weight="bold" letter-spacing="0.23171429" fill="#FF8484">
+                    <tspan x="23.9571429" y="27.5">D</tspan>
+                </text>
+                <line x1="59.5" y1="42" x2="59.5" y2="0.5" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></line>
+            </g>
+            <text id="Data" font-family="Sk-Modernist-Regular, Sk-Modernist" font-size="10.2186" font-weight="normal" letter-spacing="0.145980003" fill="#FF8484">
+                <tspan x="18.1920335" y="140.5">Data</tspan>
+            </text>
+            <text id="Next" font-family="Sk-Modernist-Regular, Sk-Modernist" font-size="10.2186" font-weight="normal" letter-spacing="0.145980003" fill="#FF8484">
+                <tspan x="64.0313518" y="140.5">Next</tspan>
+            </text>
+            <text id="Null" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="16.22" font-weight="bold" letter-spacing="0.23171429" fill="#FF8484">
+                <tspan x="537.963111" y="108.5">Null</tspan>
+            </text>
+        </g>
+        <text id="Singly-Linked-List" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29.196" font-weight="bold" letter-spacing="0.417085728" fill="#FFFFFF">
+            <tspan x="217.425696" y="61">Singly Linked List</tspan>
+        </text>
+    </g>
+</svg>

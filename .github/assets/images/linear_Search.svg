@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1012px" height="766px" viewBox="0 0 1012 766" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ropes copy</title>
+    <g id="ropes-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#161616" x="0" y="0" width="1012" height="766"></rect>
+        <text id="Linear-Search" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF">
+            <tspan x="380.453428" y="66">Linear Search</tspan>
+        </text>
+        <text id="@humamaboalraja" opacity="0.234765189" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="15.8956" font-weight="bold" letter-spacing="0.227080005" fill="#FFFFFF">
+            <tspan x="434.82518" y="713.5">@humamaboalraja</tspan>
+        </text>
+        <g id="Group-2" transform="translate(104.000000, 125.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#FF6868" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2-Copy" transform="translate(104.000000, 204.670000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#FF6868" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2-Copy-2" transform="translate(104.000000, 284.340000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#FF6868" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2-Copy-3" transform="translate(104.000000, 364.010000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#FF6868" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2-Copy-4" transform="translate(104.000000, 443.680000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#FF6868" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2-Copy-5" transform="translate(104.000000, 523.350000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#FF6868" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2-Copy-6" transform="translate(104.000000, 603.020000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="661" height="70" rx="25"></rect>
+            <g id="Group" transform="translate(7.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="92" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">92</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(332.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="98" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">98</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(72.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="13" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="15.1719877" y="42.1152734">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(397.155245, 4.884727)">
+                <rect id="Rectangle" fill="#8AFF92" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">33</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(137.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="20" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">20</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(462.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="12" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="14.8819877" y="42.1152734">12</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(202.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="28" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="11.9529877" y="42.1152734">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(527.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="75" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.5329877" y="42.1152734">75</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(592.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="87" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="12.8229877" y="42.1152734">87</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(267.155245, 4.884727)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="60.2305468" height="60.2305468" rx="25"></rect>
+                <text id="11" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="29" font-weight="bold" letter-spacing="0.414285733" fill="#000000">
+                    <tspan x="18.2459877" y="42.1152734">11</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="=-33" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF" text-decoration="line-through">
+            <tspan x="789.280286" y="176">= 33</tspan>
+        </text>
+        <text id="=-33-copy" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF" text-decoration="line-through">
+            <tspan x="789.280286" y="255.67">= 33</tspan>
+        </text>
+        <text id="=-33-copy-2" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF" text-decoration="line-through">
+            <tspan x="789.280286" y="335.34">= 33</tspan>
+        </text>
+        <text id="=-33-copy-3" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF" text-decoration="line-through">
+            <tspan x="789.280286" y="415.01">= 33</tspan>
+        </text>
+        <text id="=-33-copy-4" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF" text-decoration="line-through">
+            <tspan x="789.280286" y="494.68">= 33</tspan>
+        </text>
+        <text id="=-33-copy-6" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF" text-decoration="line-through">
+            <tspan x="789.280286" y="574.35">= 33</tspan>
+        </text>
+        <text id="=-33-copy-5" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="38" font-weight="bold" letter-spacing="0.542857167" fill="#FFFFFF">
+            <tspan x="789.280286" y="654.02">= 33</tspan>
+        </text>
+    </g>
+</svg>
