@@ -13,10 +13,22 @@ body {
    position: fixed;
 }
 
-.mission-planning h1 {
+.mission-planning__logo {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 1rem;
+}
+
+.mission-planning__logo svg{
+   width: 2.7rem;
+   fill: #000;
+   margin-right: .5rem;
+}
+
+.mission-planning__logo h1 {
    font-weight: 700;
-   height: .6rem;
-   margin-bottom: 4rem;
+   font-size: 1.8rem;
 }
 
 .mission-planning p {
