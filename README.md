@@ -15,16 +15,16 @@
 <br>
 
 ## 💎 **Repository structure**
-The architecutre of consists of five **directories** [analysis, data, src, static, templates]
+The architecture of consists of five **directories** [analysis, data, src, static, templates]
 
 
 | Service | Type | Description |
 ----------|-----|------------|
 [**analysis**]()  | Algorithms |   In-detail analysis, explanation and implementation of `Dijkstra's, A* ` Algorithms
-[**data**]()   | Data Structures | The implemented data structures ewill be used in the Alghorithms
+[**data**]()   | Data Structures | The implemented data structures will be used in the Algorithms
 [**src**]()    | Algorithms | The implementation of `Dijkstra's, A*` that will be used when a user sends a request for calculating the distance between two points
 [**static**]() | Assets |  Styles, Automatically rendered/generated Algorithms results
-[**templates**]()   | UI | Folloing Flask's Architecture style in this folder you can find all the UI relevant files
+[**templates**]()   | UI | Following Flask's Architecture style in this folder, you can find all the UI relevant files
 
 
 
@@ -45,21 +45,21 @@ The architecutre of consists of five **directories** [analysis, data, src, stati
    ---
    <br>
 
-   1 - Install virutal env to be able to create Python environments
+   1 - Install virtual env to be able to create Python environments
 
-   ```lua
+   ```bash
    sudo pip3 install virtualenv 
    ```
 
    2 - Create a new environment
 
-   ```lua
+   ```bash
    virtualenv env
    ```
    
    3 - Active the virtual environment:
 
-   ```lua
+   ```bash
    virtualenv env
    ```
 
@@ -72,7 +72,7 @@ The architecutre of consists of five **directories** [analysis, data, src, stati
 <br>
 
 2. ###  **Modules Setup**
-   After setting up your development environment make sure to install the app's required packages by running:
+   After setting up your development environment, make sure to install the app's required packages by running:
    ```
    pip3 install -r requirements.txt
    ```
@@ -111,7 +111,7 @@ The architecutre of consists of five **directories** [analysis, data, src, stati
 <br>
 
 ## 🐳 **Running with Docker**
-If you already have Docker installed feel free to run the app and set it up in one command:
+If you already have Docker installed, feel free to run the app and set it up in one command:
 
 ```
 docker-compose up  
