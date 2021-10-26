@@ -20,11 +20,11 @@ The architecture of consists of five **directories** [analysis, data, src, stati
 
 | Service | Type | Description |
 ----------|-----|------------|
-[**analysis**]()  | Algorithms |   In-detail analysis, explanation and implementation of `Dijkstra's, A*` Algorithms
-[**data**]()   | Data Structures | The implemented data structures will be used in the Algorithms
-[**src**]()    | Algorithms | The implementation of `Dijkstra's, A*` that will be used when a user sends a request for calculating the distance between two points
-[**static**]() | Assets |  Styles, Automatically rendered/generated Algorithms results
-[**templates**]()   | UI | Following Flask's Architecture style in this folder, you can find all the UI relevant files
+[**analysis**](./analysis/analysis.md)  | Algorithms |   In-detail analysis, explanation and implementation of `Dijkstra's, A*` Algorithms
+[**data**](./data/)   | Data Structures | The implemented data structures will be used in the Algorithms
+[**src**](./src/)    | Algorithms | The implementation of [`Dijkstra's`](./analysis/dijkstra/README.md), [`A*`](./analysis/a*/README.md) that will be used when a user sends a request for calculating the distance between two points
+[**static**](./static/) | Assets |  Styles, Automatically rendered/generated Algorithms results
+[**templates**](./templates/)   | UI | Following Flask's Architecture style in this folder, you can find all the UI relevant files
 
 
 
