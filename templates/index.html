@@ -8,9 +8,25 @@
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-   <link href="{{ url_for('static', filename='css/app.css') }}" rel="stylesheet" id="theme" />
-   <!-- <link href="{{ url_for('static', filename='css/black.css') }}" rel="stylesheet" /> -->   
-   <title>Missions planning's Path finding algorithms comparison</title>
+   <link href="{{ url_for('static', filename='css/black.css') }}" rel="stylesheet" id="theme"/>   
+   <title>Tabulas</title>
+   <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('static', filename='img/favicons/apple-icon-57x57.png') }}">
+   <link rel="apple-touch-icon" sizes="60x60" href="{{ url_for('static', filename='img/favicons/apple-icon-60x60.png') }}">
+   <link rel="apple-touch-icon" sizes="72x72" href="{{ url_for('static', filename='img/favicons/apple-icon-72x72.png') }}">
+   <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('static', filename='img/favicons/apple-icon-76x76.png') }}">
+   <link rel="apple-touch-icon" sizes="114x114" href="{{ url_for('static', filename='img/favicons/apple-icon-114x114.png') }}">
+   <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('static', filename='img/favicons/apple-icon-120x120.png') }}">
+   <link rel="apple-touch-icon" sizes="144x144" href="{{ url_for('static', filename='img/favicons/apple-icon-144x144.png') }}">
+   <link rel="apple-touch-icon" sizes="152x152" href="{{ url_for('static', filename='img/favicons/apple-icon-152x152.png') }}">
+   <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='img/favicons/apple-icon-180x180.png') }}">
+   <link rel="icon" type="image/png" sizes="192x192"  href="{{ url_for('static', filename='img/favicons/android-icon-192x192.png') }}">
+   <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicons/favicon-32x32.png') }}">
+   <link rel="icon" type="image/png" sizes="96x96" href="{{ url_for('static', filename='img/favicons/favicon-96x96.png') }}">
+   <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='img/favicons/favicon-16x16.png') }}">
+   <link rel="manifest" href="{{ url_for('static', filename='/manifest.json') }}">
+   <meta name="msapplication-TileColor" content="#161616">
+   <meta name="msapplication-TileImage" content="{{ url_for('static', filename='img/favicons/ms-icon-144x144.png') }}">
+   <meta name="theme-color" content="#161616">
 </head>
 
 <body>
@@ -20,8 +36,18 @@
          <a onclick="changeStylesheet('/static/css/app.css')">☀️</a>
          <a onclick="changeStylesheet('/static/css/black.css')">🌃</a>
       </div>
-      <h1>Missions planning's Path finding algorithms comparison 🧭</h1>
-      <p>Algorithms used: A*, Dijkstra</p>
+      <div class="mission-planning__logo">
+         <?xml version="1.0" encoding="UTF-8"?>
+         <svg version="1.1" viewBox="0 0 104 105" xmlns="http://www.w3.org/2000/svg">
+               <g transform="translate(-672 -312)">
+                  <g transform="translate(672.5 312.81)">
+                     <path d="m64.176 0c21.65-1.1082e-14 39.2 17.55 39.2 39.2v24.976c0 21.65-17.55 39.2-39.2 39.2h-24.976c-21.65 0-39.2-17.55-39.2-39.2v-24.976c-9.7567e-15 -21.65 17.55-39.2 39.2-39.2h24.976zm11.322 41.131-10.405 4.1619h-15.778l-0.72884 5.8307 11.473 22.946h19.556l-4.1173-32.938zm-32.181 13.754h-17.158l-2.398 19.184h29.149l-9.5921-19.184zm1.5515-25.579h-15.513l-2.398 19.184h15.513l2.398-19.184zm29.151 0h-22.707l-1.199 9.5921h13.748l10.816-4.3265-0.6582-5.2656z"/>
+                  </g>
+            </g>
+         </svg>
+         <h1>Tabulas</h1>
+      </div>
+      <p>Missions planning's Path finding algorithms comparison 🧭 <br> Algorithms used: A*, Dijkstra</p>
 
 
       <div class="mission-planning__form">
@@ -38,7 +64,7 @@
                         </svg>
                         Point A
                      </label>
-                     <input type="text" value="{% if request.form['startingPoint'] %}{%print request.form['startingPoint']%}{% else %} Storkower str 108 {% endif %}" class="input" name="startingPoint" placeholder="e.g. Berlin, Germany" required>
+                     <input type="text" value="{% if request.form['startingPoint'] %}{%print request.form['startingPoint']%}{% else %}Weinmeisterstrasse{% endif %}" class="input" name="startingPoint" placeholder="e.g. Berlin, Germany" required>
                   </div>
                   <div class="input-group">
                      <label for="endingPoint">
@@ -49,7 +75,7 @@
                         </svg>
                         Point B
                      </label>
-                     <input type="text" value="{% if request.form['startingPoint'] %} {% print request.form['endingPoint'] %} {% else %} Alexanderplatz{% endif %}" class="input" name="endingPoint" placeholder="e.g. Hamburg, Germany" required>
+                     <input type="text" value="{% if request.form['startingPoint'] %}{% print request.form['endingPoint'] %}{% else %}Alexanderplatz{% endif %}" class="input" name="endingPoint" placeholder="e.g. Hamburg, Germany" required>
                   </div>
                </div>
                <div class="mission-planning__form__algorithm-inputs algorithms-config">
@@ -65,7 +91,7 @@
                         <label for="a_star">
                            Dijkstra Background Color
                         </label>
-                        <input type="color" class="input-color" name="dijkstraBgColor" value="{% if request.form['dijkstraBgColor'] %}{% print request.form['dijkstraBgColor'] %}{% else %}#FFA3A3{% endif %}" required>
+                        <input type="color" class="input-color" name="dijkstraBgColor" value="{% if request.form['dijkstraBgColor'] %}{% print request.form['dijkstraBgColor'] %}{% else %}#A5A1FF{% endif %}" required>
                      </div>
                   </div>
                </div>
@@ -77,13 +103,13 @@
                            A* Route color
                         </label>
                         <input type="color" class="input-color" id="astarRouteColor" name="astarRouteColor" 
-                           value="{% if request.form['astarRouteColor'] %} {% print request.form['astarRouteColor'] %}{% else %}#FFFFFF{% endif %}" required>
+                           value="{% if request.form['astarRouteColor'] %} {% print request.form['astarRouteColor'] %}{% else %}#000000{% endif %}" required>
                      </div>
                      <div class="input-group">
                         <label for="astarBgColor">
                            A* Background Color
                         </label>
-                        <input type="color" class="input-color" name="astarBgColor" value="{% if request.form['astarBgColor'] %}{% print request.form['astarBgColor'] %}{% else %}#FFA3A3{% endif %}" required>
+                        <input type="color" class="input-color" name="astarBgColor" value="{% if request.form['astarBgColor'] %}{% print request.form['astarBgColor'] %}{% else %}#FFEBA5{% endif %}" required>
                      </div>
                   </div>
                </div>
@@ -107,6 +133,9 @@
       <div class="algorithms_results__result">
          <a href="{{ url_for('static', filename='img/astar.jpg') }}" download><img src="{{ url_for('static', filename='img/astar.jpg') }}" alt="Astar" draggable="false"></a>
          <p>{{ astarResult}}</p>
+      </div>
+      <div class="algorithms_results__result">
+         {{ verticesDifference }}
       </div>
    </div>
 
