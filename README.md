@@ -20,7 +20,7 @@ The architecture of consists of five **directories** [analysis, data, src, stati
 
 | Service | Type | Description |
 ----------|-----|------------|
-[**analysis**]()  | Algorithms |   In-detail analysis, explanation and implementation of `Dijkstra's, A* ` Algorithms
+[**analysis**]()  | Algorithms |   In-detail analysis, explanation and implementation of `Dijkstra's, A*` Algorithms
 [**data**]()   | Data Structures | The implemented data structures will be used in the Algorithms
 [**src**]()    | Algorithms | The implementation of `Dijkstra's, A*` that will be used when a user sends a request for calculating the distance between two points
 [**static**]() | Assets |  Styles, Automatically rendered/generated Algorithms results
@@ -32,18 +32,14 @@ The architecture of consists of five **directories** [analysis, data, src, stati
 <br>
 
 ## 📦 **Setup**
-
-   ---   
-
-
-<br>
+ 
 
 1. ### **Setting up environment**
    
    The following instructions work for <small>[Mac, Linux, Windows]</small>
 
    ---
-   <br>
+ 
 
    1 - Install virtual env to be able to create Python environments
 
@@ -66,10 +62,7 @@ The architecture of consists of five **directories** [analysis, data, src, stati
 
    ---
 
-<br>
-
-
-<br>
+ 
 
 2. ###  **Modules Setup**
    After setting up your development environment, make sure to install the app's required packages by running:
@@ -78,24 +71,21 @@ The architecture of consists of five **directories** [analysis, data, src, stati
    ```
 
    ---
-<br>
-
+ 
 3. ###  **Setting up environment variables**
 
-   ---
-   <br>
-
+ 
    1 - Naming the flask App:
    ```
    export FLASK_APP=tabulas
    ```
-   <br>
+ 
 
    2 - Setting up development mode:
    ```
    export FLASK_ENV=development
    ```
-   <br>
+ 
 
    ---
 
