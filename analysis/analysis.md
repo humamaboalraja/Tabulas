@@ -74,7 +74,8 @@ Based on my previous analysis of Dijkstra's, it's clear that the algorithm I'm u
 
 <div align="center">
 
-$O(|V| + |E|⋅log(|V|))$
+
+<img src="../.github/assets/images/dijkstras_complexity.png" width="170">
 
 </div>
 
@@ -83,7 +84,7 @@ $O(|V| + |E|⋅log(|V|))$
 ### **A\*'s Results**
 ---
 
-The implementation of A* in the app is similar to the implementation I previously analyzed, but the difference in this case is not only in the different way to get the neighbors and their cost, but it's also in the heuristic function, which calculates the distance but this time in coordinates units rather than meters, which is why I used the [Haversine Formula](https://rosettacode.org/wiki/Haversine_formula), The only two operations that have changed are the same as in Dijkstra's algorithm, but as we have seen, the time complexity of this algorithm is determined by its heuristic function; Therefore, The worst-case time complexity of this algorithm remains $O(b^{d})$, as we saw while analyzing it
+The implementation of A* in the app is similar to the implementation I previously analyzed, but the difference in this case is not only in the different way to get the neighbors and their cost, but it's also in the heuristic function, which calculates the distance but this time in coordinates units rather than meters, which is why I used the [Haversine Formula](https://rosettacode.org/wiki/Haversine_formula), The only two operations that have changed are the same as in Dijkstra's algorithm, but as we have seen, the time complexity of this algorithm is determined by its heuristic function; Therefore, The worst-case time complexity of this algorithm remains <img src="../.github/assets/images/astar_complexity.png" width="50">, as we saw while analyzing it
 
 
 
@@ -126,8 +127,7 @@ A* | 83 | 207 | 1648.262
 
 and after using The Percentage Decrease Formula:
 
-$Percentage \ \  Decrease$ = 
-$\frac{Starting Value − Final Value}{|Starting Value|} * 100$	
+![](../.github/assets/images/percentage_decrease.svg)
 
 
 <br>
