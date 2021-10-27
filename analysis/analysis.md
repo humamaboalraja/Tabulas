@@ -7,7 +7,6 @@ The implementation of the core compinenets and algorithms of searching for Paths
 <br>
 
 ## **Implementation utilities**
----
 
 - [OSMNX library](https://osmnx.readthedocs.io/en/stable/) i used to generate Python graphs from Open Street Map (OSM) data
 - Which will be representing a road network with a succession of vertices representing intersections, the beginning or finish of a road, or a change in a road's terrain/topography.
@@ -20,7 +19,7 @@ The implementation of the core compinenets and algorithms of searching for Paths
 
 
 ## **Finding the path/shortest path problem**
----
+
 
 In graphs, finding the shortest path problem is about finding a path between two points in a graph, so that that the sum of the weights of its constituent edges is minimized [wikipedia](https://en.wikipedia.org/wiki/Shortest_path_problem), so finding the shortest path entails calculating the cost of travel based on the distance between the vertices. Because vertices store the distance between themselves and their neighbors; Therefore retrieving the cost is extremely simple and requires no extra operations.
 
@@ -41,7 +40,7 @@ In graphs, finding the shortest path problem is about finding a path between two
 
 
 ## **Implementation common instructions**
----
+
 All of the algorithms will have some code in common; in fact, the only code that will differ is the "Graph" class. The shared code includes the following:
 
 type | Description | Dijkstra | A* | Time complexity|
@@ -63,7 +62,7 @@ Algorithms results print | Showing distance between `Point A` and `Point B` and 
 
 
 ## **🧮 Algorithms Results**
----
+
 <br>
 
 
