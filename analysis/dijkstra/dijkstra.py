@@ -8,18 +8,13 @@ class Graph():
     def dijkstra(self, start, to_find):
         toVisit = PriorityQueue()
         toVisit.put(start, 0)
-        # Dictionary in which we store from which vertex another vertex has been visited
         visitedFromVertex = {}
-        # Dictionary in which we store the cost to get to a vertex
         costToVertex= {}
-        # Initialize the start node in both the visitedFromVertex and costToVertex dicts
-        visitedFromVertex[start] = None  # It is none because it is the first node
-        costToVertex[start] = 0 # It is 0 because it is the first node
+        visitedFromVertex[start] = None  
+        costToVertex[start] = 0 
 
         while not toVisit.empty():
-            # Get the vertex with the least cost in the queue
             current = toVisit.get()
-            # If the vertex is the one to find, return the path to that vertex and the cost to get there
             if current == to_find:
                 path = []
                 while current != start:
@@ -30,16 +25,11 @@ class Graph():
                 return path, "The cost is " + str(costToVertex[to_find])
             
             for neighbor, weight in self.graph[current]["neighbors"]:
-                # determine the new cost
                 new_cost = costToVertex[current] + weight
-                # If the vartex hasn't been explored or is being explored from a more convenient path
                 if neighbor not in costToVertex or new_cost < costToVertex[neighbor]:
                     costToVertex[neighbor] = new_cost
-                    # calculate the priority
                     priority = new_cost
-                    # add it in the queue
                     toVisit.put(neighbor, priority)
-                    # add it to the path, assign it as value the node current, from which we got there
                     visitedFromVertex[neighbor] = current
 
         return
