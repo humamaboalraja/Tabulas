@@ -10,7 +10,7 @@ class Graph():
         toVisit.put(start, 0)
         visitedFromVertex = {}
         costToVertex= {}
-        visitedFromVertex[start] = None  
+        visitedFromVertex[start] = None
         costToVertex[start] = 0 
 
         while not toVisit.empty():
@@ -44,13 +44,13 @@ graph = {
     "GRU" : {"coords" : (-23.588, -46.658), "neighbors" : [("JFK", 419), ("LHR", 521), ("JNB", 545)]},
     "JNB" : {"coords" : (-26.134, 28.240), "neighbors" : [("FCO", 351), ("GRU", 545), ("DEL", 454)]},
     "SVO" : {"coords" : (55.751, 37.618), "neighbors" : [("BER", 122), ("PEK", 621)]},
+    "DEL" : {"coords" : (28.644, 77.216), "neighbors" : [("FCO", 358), ("PEK", 779), ("JNB", 454)]},
     "SYD" : {"coords" : (-33.947, 151.179), "neighbors" : [("LAX", 890), ("ICN", 554), ("PEK", 445), ("HNL", 467)]},
     "PEK" : {"coords" : (40.072, 116.597), "neighbors" : [("SVO", 621), ("SYD", 445), ("ICN", 454), ("DEL", 779)]},
-    "DEL" : {"coords" : (28.644, 77.216), "neighbors" : [("FCO", 358), ("PEK", 779), ("JNB", 454)]},
     "HNL" : {"coords" : (21.315, -157.858), "neighbors" : [("LAX", 129), ("SYD", 467)]},
     "ICN" : {"coords" : (37.532, 127.024), "neighbors" : [("LAX", 567), ("SYD", 554), ("PEK", 454)]},
 }
 graph = Graph(graph)
-startingPoint = "JFK"
-endingPoint = "ICN"
+startingPoint = "GRU"
+endingPoint = "PEK"
 print(graph.dijkstra(startingPoint, endingPoint))
