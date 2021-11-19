@@ -46,11 +46,11 @@ All of the algorithms will have some code in common; in fact, the only code that
 
 type | Description | Dijkstra | A* | Time complexity|
 ----|------|-----|-----|---|
-`PriorityQueue` | `PriorityQueue` data structure that we have already used while implementing the Dijkstra's and A* algorithms | ✅ | ✅ |
+`PriorityQueue` | `PriorityQueue` data structure that we have already used while implementing the Dijkstra's and A* algorithms | ✅ | ✅ | 
 OSMnx configuration | The configuration for the OSMnx library
-`geocode` Call | Two calls to the `geocode` method to get the coordinates of two points | ✅ | ✅ |
+`geocode` Call | Two calls to the `geocode` method to get the coordinates of two points | ✅ | ✅ | **O(1)**
 Determining boundaries of the graph based the 2 points's coordinates | Instructions that determines the boundaries of the graph that we are requiring based on the 2 points's coordinates | ✅ | ✅ |
-`graph_from_bbox` call | Calling `graph_from_bbox` method to request the graph (or get if from the caches if already downloaded) | ✅ | ✅ |
+`graph_from_bbox` call | Calling `graph_from_bbox` method to request the graph (or get if from the caches if already downloaded) | ✅ | ✅ | 
 `get_nearest_node` Calls | 2 calls to the `get_nearest_node` method to get the nearest nodes to the two points | ✅ | ✅ |
 `Graph` class | Initializing the `Graph` class | ✅ | ✅ |
 Call to finding the shortest path | Calling  `Dijkstra's` or `A*` to calculate the shortest path <small>Those two algorithms are methods of the class `Graph` class</small> | ✅ | ✅ |

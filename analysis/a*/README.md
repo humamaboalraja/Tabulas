@@ -11,7 +11,7 @@ This additional information is calculated in this case by a function.
 ```
 </div>
 
-- where $n$ is the next vertex, `g(n)` is the cost to get from the start vertex to the next, 
+- where $n$ is the next v ertex, `g(n)` is the cost to get from the start vertex to the next, 
 - and `h(n)` is a heuristic function that approximates the cost to get from $n$ to the vertex to find
 - and never overestimates the actual cost between $n$ and the vertex to find. 
 - The Algorithm will then pick its next move based on which one has the lowest value of `f(n)`.

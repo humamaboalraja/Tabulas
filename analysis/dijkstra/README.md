@@ -1,7 +1,7 @@
 # Dijkstra's Algorithm
 
 
-In a weighted network, we use Dijkstra's Algorithm to discover the shortest distance between two vertices. The weight of the edges must be positive for this algorithm to succeed. It can also be tweaked to find the distance between a vertex and all the other vertices in a graph.
+In a weighted network, we use Dijkstra's Algorithm to discover the shortest distance between two vertices. The weight of the edges must be positive/non-negative for this algorithm to succeed. It can also be tweaked to find the distance between a vertex and all the other vertices in a graph.
 
 <br>
 
@@ -50,9 +50,9 @@ To be correct, the Algorithm must correctly find the shortest path from one vert
 To determine the overall time complexity of this implementation of the Algorithm, we can analyze each step:
 1. Initializing the auxiliary data structures is a constant-time operation;
 2. Getting the current node from the heap can be done with worst-case time complexity of `O(log(V))`
-4. Returning the value can happen in constant time but generally depends on the size of the path, which can never be more than `V`;
-5. We need to check the cost to all the neighbors of the current vertex to update the priority queue, so this operation will be dependant on the number of edges `O(E)`;
-6. Repeating steps 2, 3, and 4 until we have found the correct vertex means that we will need to extract the current vertex from a priority queue that in the worst-case contains all the vertices, an operation that can be done with time complexity of `O(log(V))`. In the worst-case scenario, this operation will be repeated `E` times.
+3. Returning the value can happen in constant time but generally depends on the size of the path, which can never be more than `V`;
+4. We need to check the cost to all the neighbors of the current vertex to update the priority queue, so this operation will be dependant on the number of edges `O(E)`;
+5. Repeating steps 2, 3, and 4 until we have found the correct vertex means that we will need to extract the current vertex from a priority queue that in the worst-case contains all the vertices, an operation that can be done with time complexity of `O(log(V))`. In the worst-case scenario, this operation will be repeated `E` times.
 
 
 
