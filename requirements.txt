@@ -35,4 +35,4 @@ Shapely==1.7.1
 six==1.16.0
 threadpoolctl==3.0.0
 urllib3==1.26.7
-Werkzeug==2.0.2
+Werkzeug==2.2.3
